@@ -269,10 +269,6 @@ form > input {
         word-wrap: break-word;
     }
 
-    #btn-send {
-        background-color: rgb(0, 0, 0);
-    }
-
     .form > form {
         min-width: 15rem;
     }
